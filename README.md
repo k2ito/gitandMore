@@ -49,4 +49,4 @@ gitandMore is a Python tool designed to fuzz subdomains for accessible .git file
 ## Example
 
 ```bash
-./git_fuzzer.py -l subdomains.txt
+./gitandMore.py -l subdomains.txt
